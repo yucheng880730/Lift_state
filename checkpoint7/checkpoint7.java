@@ -33,6 +33,19 @@ import java.util.Scanner;
 
         }
 
+        // command line version
+        /*
+
+        String[] inputstep = args;
+        for (String floor : inputstep) {
+
+                int step = Integer.parseInt(floor);
+                destination.add(step);
+
+        }
+
+        */
+
         //checkpoint7_lift checkpoint7_lift = new checkpoint7_lift(destination);
         //checkpoint7_lift.run();
 
